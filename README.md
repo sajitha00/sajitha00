@@ -4,11 +4,11 @@
 
 - 🌱 I’m currently learning **Dart, Flutter,Node etc**
 
-- 👯 I’m looking to collaborate on **dart projects**
+- 👯 I’m looking to collaborate on **dart projects,Flutter,MERN**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sajitha00](https://github.com/sajitha00)
 
-- 💬 Ask me about **HTML, CSS, Js**
+- 💬 Ask me about **HTML, CSS, Js,Flutter**
 
 - 📫 How to reach me **sajithageevinda.sd@gmail.com**
 
