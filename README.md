@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sajitha Geevinda</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-- 🔭 I’m currently working on **IOT Project**
+- 🔭 I’m currently working on **Flutter Projects**
 
-- 🌱 I’m currently learning **Dart, Flutter**
+- 🌱 I’m currently learning **Dart, Flutter,Node etc**
 
 - 👯 I’m looking to collaborate on **dart projects**
 
