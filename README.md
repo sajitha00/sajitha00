@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sajitha Geevinda</h1>
 
-- 🔭 I’m currently working on **Flutter Projects**
+- 🔭 I’m currently working on **React Projects**
 
-- 🌱 I’m currently learning **Dart, Flutter,Node etc**
+- 🌱 I’m currently learning **React,Advnace JS,Node etc**
 
 - 👯 I’m looking to collaborate on **dart projects,Flutter,MERN**
 
