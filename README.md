@@ -84,7 +84,7 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajitha00&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff)](https://github.com/sajitha00)
+[![sajitha00's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sajitha00&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B)](https://github.com/sajitha00)
 
 </div>
 
